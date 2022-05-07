@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,iBAAiB,AAAC,CACd,OAAO,CAAE,IAAI,CACb,eAAe,CAAE,MAAM,CACvB,WAAW,CAAE,MAAM,CACnB,KAAK,CAAE,IAAI,CACX,MAAM,CAAE,IAAI,CACZ,gBAAgB,CAAE,OAAO,CACzB,aAAa,CAAE,GAAG,CAElB,UAAU,CAAE,gBAAgB,CAAC,KAAK,CAAC,4BAA4B,CAClE,AAED,AAAA,iBAAiB,AAAA,MAAM,CACvB,iBAAiB,AAAA,MAAM,AAAC,CACpB,gBAAgB,CAAE,mBAAmB,CACxC,AAED,AAAA,iBAAiB,AAAA,MAAM,CAAC,iBAAiB,CACzC,iBAAiB,AAAA,MAAM,CAAC,iBAAiB,AAAC,CACtC,IAAI,CAAE,OAAO,CAChB",
+    "sources": [
+        "../sass/components/social-list-link.scss"
+    ],
+    "names": [],
+    "file": "social-list-link.min.css"
+}
