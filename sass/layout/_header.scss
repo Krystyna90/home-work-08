@@ -41,6 +41,10 @@
 }
 
 @media screen and(min-width:768px){
+    .main-header{
+        padding-top: 21px;
+        padding-bottom: 25px;
+    }
     .contact-button{
         display: none;
     }
@@ -81,7 +85,7 @@
 }
 .active::after {
     position: absolute;
-    margin-top: 23px;
+    margin-top: 32px;
     content: "";
     display: block;
     width: 100%;
@@ -119,6 +123,10 @@
 }
 
 @media screen and(min-width:1200px) {
+    .main-header{
+        padding-top: 24px;
+        padding-bottom: 28px;
+    }
     .nav-list{
         margin-left: 93px;
     }
